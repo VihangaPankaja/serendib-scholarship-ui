@@ -2,7 +2,7 @@
   "name": "serendib-ui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://debilla.github.io/serendib-scholarship-ui",
+  "homepage": "https://vihangapankaja.github.io/serendib-scholarship-ui",
   "dependencies": {
     "@aws-sdk/client-s3": "3.194.0",
     "@aws-sdk/s3-request-presigner": "3.194.0",
