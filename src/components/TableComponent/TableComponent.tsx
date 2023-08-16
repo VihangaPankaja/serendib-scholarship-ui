@@ -8,7 +8,7 @@ import * as XLSX from "xlsx";
 import { downloadBlobArrayToZip } from "../../utils/helper";
 import { useState, useEffect } from "react";
 
-const BUCKET_NAME = "ssdww";
+const BUCKET_NAME = "serendib-ui";
 
 const STUDENT_URL = process.env.REACT_APP_WS_HOST + "/student";
 const SPONSOR_URL = process.env.REACT_APP_WS_HOST + "/sponsor";
